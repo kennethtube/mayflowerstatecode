@@ -1204,5 +1204,9 @@
     {
         "Name": "ATM Robbery",
         "Arrest": 25
+    },
+    {
+        "Name": "Conspiracy to Incite Insurrection",
+        "Arrest": 0
     }
 ]
