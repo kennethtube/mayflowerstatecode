@@ -419,7 +419,7 @@
     },
     {
         "Name": "Direction of organized crime",
-        "Arrest": 40
+        "Arrest": 1
     },
     {
         "Name": "Engagement in organized crime",
@@ -433,7 +433,7 @@
     {
         "Class": 2,
         "Name": "Criminal Anarchy",
-        "Arrest": 150
+        "Arrest": 1
     },
     {
         "Class": 0,
@@ -492,11 +492,11 @@
     {
         "Fine": 1000,
         "Name": "Unfair Housing Practices",
-        "Arrest": 10
+        "Arrest": 1
     },
     {
         "Name": "Criminal Trademark Infringement",
-        "Arrest": 10
+        "Arrest": 1
     },
     {
         "Points": 4,
@@ -596,13 +596,13 @@
         "Fine": 65000,
         "Class": 2,
         "Name": "Commercial instrument falsification in the first degree",
-        "Arrest": 16
+        "Arrest": 1
     },
     {
         "Fine": 500,
         "Class": 2,
         "Name": "Commercial instrument falsification in the second degree",
-        "Arrest": 10
+        "Arrest": 1
     },
     {
         "Class": 2,
@@ -630,13 +630,13 @@
         "Fine": 5000,
         "Class": 2,
         "Name": "Fraud in the first degree",
-        "Arrest": 18
+        "Arrest": 1
     },
     {
         "Fine": 1000,
         "Class": 1,
         "Name": "Fraud in the second degree",
-        "Arrest": 12
+        "Arrest": 1
     },
     {
         "Name": "Truancy",
@@ -891,7 +891,7 @@
         "Fine": 1
     },
     {
-        "Arrest": 25,
+        "Arrest": 1,
         "Name": "Insurance Fraud",
         "Fine": 30000
     },
@@ -1011,17 +1011,17 @@
         "Hidden": true
     },
     {
-        "Arrest": 20,
+        "Arrest": 1,
         "Name": "Insider Trading",
         "Fine": 1
     },
     {
-        "Arrest": 20,
+        "Arrest": 1,
         "Name": "Securities Fraud",
         "Fine": 1
     },
     {
-        "Arrest": 30,
+        "Arrest": 1,
         "Name": "Market Manipulation",
         "Fine": 1
     },
@@ -1074,7 +1074,7 @@
     },
     {
         "Name": "False statements",
-        "Arrest": 30
+        "Arrest": 1
     },
     {
         "Name": "Participation of War as a Foreign Actor",
@@ -1082,11 +1082,11 @@
     },
     {
         "Name": "Conspiracy against rights",
-        "Arrest": 35
+        "Arrest": 1
     },
     {
         "Name": "Deprivation of rights under color of law",
-        "Arrest": 35
+        "Arrest": 1
     },
     {
         "Name": "Destruction of a Vehicle",
@@ -1207,6 +1207,51 @@
     },
     {
         "Name": "Conspiracy to Incite Insurrection",
-        "Arrest": 0
+        "Arrest": 1
+    },
+    {
+        "Name": "Public official or public servant acting as an agent of a foreign government",
+        "Arrest": 1
+    },
+    {
+        "Name": "Offering a false instrument for filing in the first degree",
+        "Arrest": 1
+    },
+    {
+        "Name": "Offering a false instrument for filing in the second degree",
+        "Arrest": 1
+    },
+    {
+        "Name": "Recalcitrant witness before the Attorney General",
+        "Arrest": 1
+    },
+    {
+        "Name": "Vehicular assault",
+        "Arrest": 15
+    },
+    {
+        "Name": "Failure to Yield to a Pedestrian",
+        "Fine": 1500
+    },
+    {
+        "Name": "Misuse or Abuse of the 911 System",
+        "Arrest": 15
+    },
+    {
+        "Name": "Harassment",
+        "Arrest": 5,
+        "Fine": 5000
+    },
+    {
+        "Name": "Aggravated harassment",
+        "Arrest": 20
+    },
+    {
+        "Name": "Operating a Motor Vehicle While Using a Mobile Device",
+        "Fine": 1500
+    },
+    {
+        "Name": "Enlistment in foreign service",
+        "Arrest": 1
     }
 ]
